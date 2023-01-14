@@ -1,0 +1,55 @@
+{
+	"team_1": {
+		"name": "Sample Team",
+		"pokemon_1": {
+			"name": "Bob",
+			"pokemon": "pikachu",
+			"move_1": "thunderbolt",
+			"move_2": "pound",
+			"move_3": "iron tail",
+			"move_4": "thunder wave"
+		},
+		"pokemon_2": {
+			"name": "Joe",
+			"pokemon": "pikachu",
+			"move_1": "thunderbolt",
+			"move_2": "quick attack",
+			"move_3": "thunder wave",
+			"move_4": "iron tail"
+		},
+		"pokemon_3": {
+			"name": "Jim",
+			"pokemon": "pikachu",
+			"move_1": "thunderbolt",
+			"move_2": "pound",
+			"move_3": "quick attack",
+			"move_4": "iron tail"
+		}
+	},
+	"team_2": {
+		"name": "Test team",
+		"pokemon_1": {
+			"name": "VenuSaul",
+			"pokemon": "Venusaur",
+			"move_1": "Toxic",
+			"move_2": "Synthesis",
+			"move_3": "Venoshock",
+			"move_4": "Facade"
+		},
+		"pokemon_2": {
+			"name": "Pikachu",
+			"pokemon": "Pikachu",
+			"move_1": "Thunderbolt",
+			"move_2": "Thunder Wave",
+			"move_3": "Iron Tail",
+			"move_4": "Pound"
+		},
+		"pokemon_3": {
+			"name": "Zard",
+			"pokemon": "Charizard",
+			"move_1": "Flamethrower",
+			"move_2": "Fire Blast",
+			"move_3": "Pound",
+			"move_4": "Iron Tail"
+		}
+	}}
