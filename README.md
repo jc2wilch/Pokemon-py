@@ -41,3 +41,4 @@ I forgot to take out the test teams I used so have fun with them!
 ⠀⠀⠀⠉⠉⠀⠀⠈⠉⠉⠉⠙⠻⠿⠾⠾⠻⠓⢦⠦⡶⡶⠿⠛⠛⠓⠒⠒⠚⠛⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 idk what else to put here...
+text art found here: https://emojicombos.com/pikachu-text-art
